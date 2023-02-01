@@ -53,3 +53,11 @@ Específicamente para **ingeniería de sistemas** hay 8 énfasis:
 >_"Ser responsable, integro y comprometido con el desarrollo sostenible y el bienestar de la sociedad"_
 
 <center><img src="https://tuataras.net/wp-content/uploads/Persona-programando.png" width="300" height="280">
+
+## Pruebas GIT BRANCHING
+### Main:
+<center><img src="Main.png" width="500" height="300">
+
+### Remote:
+
+<center><img src="Remote.png" width="500" height="300">
