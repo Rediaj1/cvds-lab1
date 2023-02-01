@@ -17,5 +17,3 @@
  - Ping pong
  - Baloncesto
 
-
-
